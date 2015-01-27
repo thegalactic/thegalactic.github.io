@@ -2,7 +2,7 @@
 
 *Galactic* stands for **GA**lois **LA**ttices, **C**oncept **T**heory, **I**mplicational systems and **C**losures
 
-The Galactic Organization maintains several java repository:
+The Galactic Organization maintains several java repositories:
 
 * [java-lattices](http://thegalactic.github.io/java-lattices/): a Java library for handling lattices
 
